@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[6]:
-
-
-# Install packages into the Codespaces environment
 get_ipython().system('pip install pandas requests beautifulsoup4')
 
 import time
